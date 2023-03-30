@@ -47,7 +47,6 @@ ul {
 
 .right-container {
     flex:1;
-    flex-basis: ;
     border: 3px solid blue;
 }
 
